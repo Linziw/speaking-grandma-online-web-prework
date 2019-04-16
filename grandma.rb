@@ -1,4 +1,7 @@
-# Write a speak_to_grandma method.
+def speak_to_grandma(input)
+  if input == "test"
+    puts string
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
