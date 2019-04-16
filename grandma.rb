@@ -1,6 +1,6 @@
 def speak_to_grandma(input)
-  if input == "test"
-    puts string
+  if input == 'I LOVE YOU GRANDMA!'
+    puts 
 end
 
 # Whatever you say to grandma, she should respond with
